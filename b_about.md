@@ -15,7 +15,7 @@ permalink: /about/
 
 
 
-<img title="菊花" src="/images/chrysanthemum.jpg" alt="菊花"  />
+<img title="菊花" src="http://aicdg.com/oldblog/images/chrysanthemum.jpg" alt="菊花"  />
 
 #### 图片来源于网络，版权非我所有.
 
