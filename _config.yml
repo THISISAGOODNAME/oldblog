@@ -14,9 +14,9 @@ locale: zh_CN
 qq_username: 1156587053
 github_username:  THISISAGOODNAME
 disqus_shortname: AICDG
-favicon:     "/images/chrysanthemum.ico"
+favicon:     "http://aicdg.com/oldblog/images/chrysanthemum.ico"
 aboutme: 我就是菊长，喜欢U3D，MMD前端等一切花里胡哨的技术. # these are shown on aboutme-sidebar.
-aboutme_photo: /images/chrysanthemum.jpg# your photo.
+aboutme_photo: http://aicdg.com/oldblog/images/chrysanthemum.jpg# your photo.
 google_analytics_key: UA-62751145-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
